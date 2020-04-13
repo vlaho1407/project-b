@@ -1,10 +1,5 @@
 <?php
 
 ?>
-sa desktop-a
+promjena koju ne želim prebrisati
 
-i nešto popravim
-
-i nešto ponovno izmijenim
-
-i ponovno
