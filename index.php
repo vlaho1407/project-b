@@ -2,3 +2,5 @@
 
 ?>
 sa desktop-a
+
+promijenjeni na desktopu
